@@ -17,7 +17,7 @@
 $ git clone https://github.com/TacioAntonio/GO-CRUD-person-api
 $ cd go-crud-person-api
 $ go mod tidy
-$ go run main.go
+$ start air
 ```
 
 ## Build
