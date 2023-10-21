@@ -20,12 +20,12 @@ $ go mod tidy
 $ go run main.go
 ```
 
-# Build
+## Build
 ```sh
 $ go build main.go
 ```
 
-# Create a tunnel
+## Create a tunnel
 Create a tunnel to enable access to a locally hosted API.
 ```sh
 $ start ngrok.sh
