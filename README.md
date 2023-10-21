@@ -3,7 +3,7 @@
 ![Image](assets/images/golang.webp)
 > A simple CRUD made with GO and Mux
 > 
-> Application that runs the API [React Native](https://)
+> Application that runs the API [React Native](https://github.com/TacioAntonio/react-native-person-application)
 
 ## Endpoints
 ### Persons
